@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-This is an anonymous repo for posing an working prototype of our submission.
+This is a repo for posing an working prototype of our submission.
+The code will be available when the manuscript is unblinded.
 
 <!---
 asplos-paper-491/asplos-paper-491 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
